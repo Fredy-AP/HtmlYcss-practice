@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-image:url(Imagenes/AuroraBoreal.jpg);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-container{
+    max-width: 900px;
+    width: 100%;
+    background-color: rgb(10, 71, 28);
+    color:rgb(187, 191, 195);
+    margin:0 auto;
+    padding:20px;
+    
+}
+
+.audio{
+    display:none;
+}
+.container{
+    width:100%;
+    border-radius: circle;
+    
+}
+
+.imagen{
+    width: 100%;
+}
